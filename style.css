@@ -1,0 +1,46 @@
+*{
+    background-color: antiquewhite;
+    background-image: url(./pexels-maurício-mascaro-376533.jpg);
+}
+#navbar {
+    text-align: right;
+    font-family: cursive;
+    color: yellow;
+    background-color: pink;
+    font-size: 1rem;
+    margin-left: 50rem;
+}
+
+
+
+h1{
+    margin-top: 3rem;
+    margin-left: 6rem;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-style: oblique;
+}
+h2{
+    margin-top: 0rem;
+    margin-left: 4rem;
+    font-size: 3em;
+    font-family: monospace;
+    color: antiquewhite;
+    font-style: italic;
+}
+.intro{
+    font-size: 4rem;
+    color:red;
+    margin-left: 35rem;
+    background-color: rosybrown;
+    
+    
+}
+.footer {
+    color: pink;
+    font-size: 3rem;
+    margin-left: 7rem;
+    
+    background-color: green;
+}
